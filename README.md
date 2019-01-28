@@ -1,6 +1,6 @@
 记录工作和学习中碰到的问题，便于回顾，文字记录也更有条理。
 
-也可以关注公共号哈～
+也可以关注公众号哈～
 
 ![](https://raw.githubusercontent.com/sliwey/blog/master/images/qrcode.jpg)
 
