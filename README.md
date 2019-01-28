@@ -2,7 +2,7 @@
 
 也可以关注公共号哈～
 
-![]()
+![](https://raw.githubusercontent.com/sliwey/blog/master/images/qrcode.jpg)
 
 ### 目录
 
