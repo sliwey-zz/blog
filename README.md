@@ -7,7 +7,7 @@
 ### 目录
 
 [记一次排错经历——npm缓存浅析](https://github.com/sliwey/blog/issues/1)
-
+[GraphQL初探](https://github.com/sliwey/blog/issues/2)
 
 
 
