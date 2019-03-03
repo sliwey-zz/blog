@@ -16,3 +16,4 @@
 
 [浅谈 React Hooks（一）](https://github.com/sliwey/blog/issues/5)
 
+[浅谈 React Hooks（二）](https://github.com/sliwey/blog/issues/6)
